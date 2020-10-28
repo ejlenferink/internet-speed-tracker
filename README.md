@@ -1,1 +1,1 @@
-# internet-speed-tracker
+# internet-speed-trackerd
